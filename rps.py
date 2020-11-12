@@ -6,7 +6,7 @@ import random
 rps = ['Rock', 'Paper', 'Scissors']
 wins = 0
 losses = 0
-
+ 
 
 def turn(wins, losses, turns):
     while True:
